@@ -1,0 +1,12 @@
+openai
+python-dotenv
+requests
+Pillow
+huggingface_hub
+rembg
+diffusers
+accelerate
+safetensors
+transformers
+datasets
+tqdm
