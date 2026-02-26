@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+/build/
+/dist/
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+/.cache/
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+
+# Env files
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# App runtime artifacts
+/backend/tasks/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

@@ -1,0 +1,30 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+#핵심 프레임워크
+fastapi==0.128.0
+uvicorn[standard]==0.40.0
+pydantic==2.12.5
+python-multipart==0.0.21
+
+#유틸리티
+python-dotenv==1.2.1
+requests==2.32.5
+
+#프론트엔드
+streamlit==1.54.0
+
+#AI/ML 라이브러리
+openai==2.9.0
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
+diffusers==0.36.0
+transformers==4.57.5
+accelerate==1.12.0
+
+#이미지 처리
+Pillow==12.0.0
+rembg==2.0.69
+onnxruntime==1.15.1
+matplotlib==3.10.8
+scipy==1.15.3
+numpy==1.26.4
