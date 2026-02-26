@@ -15,7 +15,7 @@ LLM 카피 생성, SDXL 기반 이미지 생성, 텍스트/레이아웃 합성�
              └── Vision/LLM/SDXL → Layout 합성 → /status → [Frontend]
 ```
 
-## 이미지 자리 🖼️
+## 시연 장면 🖼️
 아래 경로에 이미지를 넣으면 README에 표시됩니다.
 
 ![UI Screenshot](시연영상.gif)
