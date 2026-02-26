@@ -18,8 +18,7 @@ LLM 카피 생성, SDXL 기반 이미지 생성, 텍스트/레이아웃 합성�
 ## 이미지 자리 🖼️
 아래 경로에 이미지를 넣으면 README에 표시됩니다.
 
-![Workflow Diagram](docs/images/workflow.png)
-![UI Screenshot](docs/images/ui.png)
+![UI Screenshot](/opt/AdWidget_Project/시연영상.gif)
 
 ## 주요 기능 ✨
 - 제품 이미지 + 키워드 + 톤 입력으로 광고 배너 생성
