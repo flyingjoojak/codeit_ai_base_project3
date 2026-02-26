@@ -102,3 +102,9 @@ streamlit run frontend/app.py
 - 작업 결과는 `backend/tasks/*.json`에 저장되며, 일정 시간이 지나면 GC가 삭제합니다.
 - GPU가 없으면 SDXL 생성이 느릴 수 있습니다.
 - 현재 `requirements.txt`는 CUDA 12.8(`cu128`) 기준입니다. CPU 환경이라면 Torch 버전을 조정하세요.
+
+
+## 협업일지
+정예진 - https://www.notion.so/2f8fce412ebd801b856fd5483b93e4ab
+
+최지혁 - https://www.notion.so/2f8b65ba18c680a8be58c2a3a3505009
